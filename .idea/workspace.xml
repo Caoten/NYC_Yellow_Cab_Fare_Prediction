@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53b2bbd1-9781-4a73-9281-d26bcb5ee5e3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Relevant_Features-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Which_Feature_to_choose-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Which_Feature_to_choose-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2009-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2009-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2010-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2010-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2011-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2011-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2012-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2012-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2013-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2013-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2014-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2014-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2015-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2015-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2016-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2016-checkpoint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2017-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2018-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2009.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2011.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2011.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2013.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2013.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2014.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2014.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2015.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2015.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2016.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Relevant_Features.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Which_Feature_to_choose.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="470" />
+    <option name="y" value="50" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NYC_Yellow_Cab_Fare_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NYC_Yellow_Cab_Fare_Prediction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NYC_Yellow_Cab_Fare_Prediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NYC_Yellow_Cab_Fare_Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Feature_Selection_Source_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b2bbd1-9781-4a73-9281-d26bcb5ee5e3" name="Default" comment="" />
+      <created>1565103072727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565103072727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/First_Impression.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

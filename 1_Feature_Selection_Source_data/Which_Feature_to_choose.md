@@ -37,6 +37,10 @@
 
 *The New York City Taxi and Limousine Commission’s official stance is: “It is impossible to pre-calculate a fare, because the meter rate depends on traffic, construction, weather, and route to the destination.”*
 
+*The taximeter shall combine fractional measures of distance and time in accruing a unit of fare.Any combination of distance or time shall be computed by the taximeter in accordance with the National Institute of Standards and Technology Handbook 44.*
+
+*The fare shall include pre-assessment of the unit currently being accrued; the amount due may therefore include a full unit charge for a final, fractional unit.*
+
 -> Traffic Data Important(Volume Amount, Accidents), Weather Data?, ...
 
         
