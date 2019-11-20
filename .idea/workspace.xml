@@ -2,32 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53b2bbd1-9781-4a73-9281-d26bcb5ee5e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Relevant_Features-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Which_Feature_to_choose-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Which_Feature_to_choose-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2009-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2009-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2010-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2010-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2011-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2011-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2012-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2012-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2013-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2013-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2014-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2014-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2015-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2015-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2016-checkpoint.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2016-checkpoint.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2017-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2018-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2009.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2010.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2011.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2011.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2012.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2013.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2013.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2014.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2014.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2015.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2015.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2016.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2017.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2018.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Relevant_Features.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NYC_Yellow_Cab_Fare_Prediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NYC_Yellow_Cab_Fare_Prediction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/.md-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Note-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Uniform_Database-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.ipynb_checkpoints/Which_Feature_to_choose-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/.ipynb-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/1_First_Impression-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/2_Shape_of_the_csv_Files-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/3_Convert_Csv_Files_to_Parquet-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/4_Peek_into_Rate_Code_ID-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Evidence_for_more_fields_than_Columns-checkpoint.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2009-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2010-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2011-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2012-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2013-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2014-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2015-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/.ipynb_checkpoints/Overview_Feature_2016-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/1_First_Impression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/2_Shape_of_the_csv_Files.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/3_Convert_Csv_Files_to_Parquet.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/4_Peek_into_Rate_Code_ID.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Evidence_for_more_fields_than_Columns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2009.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2010.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2011.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2012.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2013.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2014.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2015.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/Overview_Feature_2016.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Uniform_Database.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Load_Selected_Data_into_Sqlite/.ipynb_checkpoints/Load_Selected_Columns_into_Sqlite-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Load_Selected_Data_into_Sqlite/Load_Selected_Columns_into_Sqlite.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/.ipynb_checkpoints/0_Convert_Exploration_Data_to_Parquet-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/.ipynb_checkpoints/1_Exploratory_Data_Analysis_Distribution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/.ipynb_checkpoints/2_Exploratory_Data_Analysis_Map-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/.ipynb_checkpoints/3_Exploratory_Data_Analysis_Bivariate-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/.ipynb_checkpoints/Exploration_of_Data-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/0_Convert_Exploration_Data_to_Parquet.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/1_Exploratory_Data_Analysis_Distribution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/2_Exploratory_Data_Analysis_Map.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/3_Exploratory_Data_Analysis_Bivariate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Exploration_of_Data/Exploration_of_Data.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_External_Data/.ipynb_checkpoints/Exploratory_Dataanalysis_load_sqlite-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_External_Data/.ipynb_checkpoints/GHCND_documentation-checkpoint.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_External_Data/Exploratory_Dataanalysis_load_sqlite.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_External_Data/GHCND_documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_External_Data/Weather_Data_missing_value_AWND.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Feature_Engineering_Transformation/.ipynb_checkpoints/Feature_Engineering_and_Transformation-checkpoint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Feature_Engineering_Transformation/Feature_Engineering_and_Transformation.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,20 +68,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Which_Feature_to_choose.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/6_Feature_Engineering_Transformation/Helper_Function/Helper_Function.py" />
+        <option value="$PROJECT_DIR$/Helper_Function/Helper_Function.py" />
+        <option value="$PROJECT_DIR$/9_Helper_Function/Resampling.py" />
+        <option value="$PROJECT_DIR$/6_Helper_Function/Feature_Engineering.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="470" />
@@ -63,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,12 +111,13 @@
             <path>
               <item name="NYC_Yellow_Cab_Fare_Prediction" type="b2602c69:ProjectViewProjectNode" />
               <item name="NYC_Yellow_Cab_Fare_Prediction" type="462c0819:PsiDirectoryNode" />
-              <item name="1_Feature_Selection_Source_data" type="462c0819:PsiDirectoryNode" />
+              <item name="6_Helper_Function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -97,6 +135,31 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Helper_Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NYC_Yellow_Cab_Fare_Prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Feature_Engineering_Transformation/Helper_Function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Feature_Engineering_Transformation/Helper_Function/Helper_Function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Helper_Function" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -119,7 +182,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -137,31 +200,109 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Target_Binning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Resampling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Target_Binning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/First_Impression.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md">
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Resampling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="204">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Target_Binning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Resampling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Target_Binning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Resampling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Target_Binning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Resampling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Target_Binning.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helper_Function/Helper_Function.py" />
+    <entry file="file://$PROJECT_DIR$/Helper_Function/Helper_Function.py" />
+    <entry file="file://$PROJECT_DIR$/6_Feature_Engineering_Transformation/Helper_Function/Helper_Function.py" />
+    <entry file="file://$PROJECT_DIR$/6_Feature_Engineering_Transformation/Helper_Function/Helper_Function.py" />
+    <entry file="file://$PROJECT_DIR$/6_Feature_Engineering_Transformation/Helper_Function/Helper_Function.py" />
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" />
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" />
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" />
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Overview_Features_NYC_Yellow_Cab/First_Impression.ipynb" />
+    <entry file="file://$PROJECT_DIR$/1_Feature_Selection_Source_data/Which_Feature_to_choose.md" />
+    <entry file="file://$PROJECT_DIR$/6_Feature_Engineering_Transformation/Helper_Function/Helper_Function.py" />
+    <entry file="file://$PROJECT_DIR$/Helper_Function/Helper_Function.py" />
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Target_Binning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_Helper_Function/Resampling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Helper_Function/Feature_Engineering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
