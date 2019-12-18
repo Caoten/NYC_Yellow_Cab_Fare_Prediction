@@ -31,7 +31,7 @@
 |     WT07     |                     Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction                     |   Bool    |    Yes    |
 |     WT08     |                                                  Smoke or haze                                                 |   Bool    |    Yes    |
 |     WT09     |                                            Blowing or drifting snow                                            |   Bool    |    Yes    |
-|     WT11     |                                            High or damaging winds                                              |   Bool    |    Yes    |                  |     WT13     |                                                      Mist                                                      |   Bool    |    Yes    |
+|     WT11     |                                            High or damaging winds                                              |   Bool    |    Yes    |                              |     WT13     |                                                      Mist                                                      |   Bool    |    Yes    |
 |     WT14     |                                                   Drizzle                                                      |   Bool    |    Yes    |
 |     WT16     |                    Rain (may include freezing rain, drizzle, and freezing drizzle)                             |   Bool    |    Yes    |
 |     WT17     |                                             Freezing rain                                                      |   Bool    |    Yes    |
